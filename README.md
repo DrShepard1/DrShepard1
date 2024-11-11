@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrShepard1
-- 👀 I’m interested in decentralization via pow and pos
-- 🌱 I’m currently climbing the software language mountain 
-- 💞️ I’m looking to collaborate on projects that support veterans learn more about blockchain technology
+- 👀 I’m interested in pow and guitar and writing music
+- 🌱 I’m currently God and i love writing music
+- 💞️ I’m looking to collaborate on projects that support veterans learn more about blockchain technology and guitar or muusic from within
 - 📫 How to reach me ... long arms
 
 <!---
